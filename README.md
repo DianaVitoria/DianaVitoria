@@ -3,7 +3,6 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas (ADS), e empenhad
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DianaVitoria&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DianaVitoria&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaVitoria&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
