@@ -1,5 +1,5 @@
 # 💫 Olá, sou a Diana!
-Atualmente estudante de Análise e Desenvolvimento de Sistemas (ADS), e empenhada em construir uma carreira na área de Desenvolvimento Front-end e Design. Estou constantemente aprimorando minhas habilidades em HTML, CSS e JavaScript. Além disso, familiarizada com frameworks como Bootstrap. Minha paixão pelo design me levou a adquirir competências em ferramentas como Figma, Illustrator, Photoshop, Adobe XD e InDesign. Acredito que a combinação de habilidades técnicas e criativas é essencial
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) - 4º Período. Possuo uma sólida experiência em tecnologias front-end, especialmente em JavaScript. Atualmente, estou direcionando meu foco para a especialização total no back-end, utilizando Java, Spring Boot e JPA. Busco constantemente aprimorar minhas habilidades para enfrentar desafios complexos de programação.
 
 
 # 📊 GitHub Stats:
